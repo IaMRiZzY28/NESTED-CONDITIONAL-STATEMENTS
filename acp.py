@@ -1,6 +1,4 @@
-# Holiday Activity Planner
-# Lesson: Nested Conditional Statements
- 
+
 print("=============================")
 print("    Welcome to Holiday Planner!     ")
 print("===============")
